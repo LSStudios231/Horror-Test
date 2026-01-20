@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="out">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build/intermediates/mixed_scope_dex_archive/release/out/6d7595003fa6b1cf922d60fe96352f22ccadcc4aa66051821d9bbba9d91f2020_3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build/intermediates/mixed_scope_dex_archive/release/out/6d7595003fa6b1cf922d60fe96352f22ccadcc4aa66051821d9bbba9d91f2020_2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build/intermediates/mixed_scope_dex_archive/release/out/6d7595003fa6b1cf922d60fe96352f22ccadcc4aa66051821d9bbba9d91f2020_1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build/intermediates/mixed_scope_dex_archive/release/out/6d7595003fa6b1cf922d60fe96352f22ccadcc4aa66051821d9bbba9d91f2020_0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

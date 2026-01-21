@@ -26,3 +26,5 @@ The player is presented with 20 questions and is encouraged to answer honestly. 
 
 ## Notes
 This was my second published project and the first one that I successfully sold.
+
+Game screenshots can be found in the images folder.
